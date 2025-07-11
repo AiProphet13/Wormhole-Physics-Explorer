@@ -27,4 +27,33 @@ free to fork and contribute!
 ![Observer View](https://i.imgur.com/observer_view.png)
 
 ## Installation
-1. Clone the repo:  
+1. Clone the repo:
+2. git clone https://github.com/Aiprophet13/wormhole-physics-explorer.git
+3. cd wormhole-physics-explorer
+4. pip install -r requirements.txt
+5. Usage: Run the simulator
+6. python wormhole_simulator.py
+ - Use sliders to adjust parameters.
+- Switch views with the radio buttons (Embedding Diagram or Observer View).
+- Toggle animation for rotation.
+
+## Dependencies
+See `requirements.txt` for details. Key libraries: NumPy, Matplotlib, SciPy.
+
+## Contributing
+Pull requests welcome! For major changes, open an issue first.
+
+## License
+MIT License - see [LICENSE](LICENSE) for details.
+
+## Acknowledgments
+- Built with inspiration from general relativity
+- and quantum gravity theories.
+- Aiprophet13
+- Thanks to Grok from xAI
+- for code polishing and ideas!
+- and the others, not mentioned.
+
+Happy exploring the cosmos! 🚀  
+- Aiprophet13
+
